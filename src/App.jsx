@@ -49,6 +49,7 @@ function App() {
   return (
     <div className="chat-app">
       <header className="chat-header">
+        <h1>Fieldforce AI Chatbot</h1>
         <span className="chat-avatar" aria-hidden="true">
           AI
         </span>
